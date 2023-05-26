@@ -8,3 +8,5 @@ analysis to showcase trends in school performance.<br>
 1. main.ipynb file located in PyCitySchools folder.<br>
 2. Two Resource files located in Resources folder under PyCitySchools<br>
 3. Analysis/Result is in the title of the main.ipynb file in PyCitySchools folder<br>
+
+Link to GitHub: https://github.com/CharlesQuinn1/pandas_challenge/blob/main/README.md
